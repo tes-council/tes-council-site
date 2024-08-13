@@ -31,6 +31,7 @@ github_username: tes-council
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-menus
 
 minima:
   social_links:
