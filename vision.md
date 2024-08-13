@@ -1,8 +1,16 @@
 ---
 layout: page
 title: Vision
-permalink: /vision/
+permalink: ../vision
+menus: 
+  about:
+    weight: 2
+
 ---
+
+[Working groups](./working-groups)
+
+[2023 Round-up](./2023-round-up)
 
 **The TES Strategy imagines a 2025 environment where:**
 

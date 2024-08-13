@@ -1,0 +1,74 @@
+---
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+$grey-color: #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+
+.site-header {
+  position: sticky;
+  top: 0;
+  background-color: $background-color;
+}
+
+ul.menu-items, li.dropdown-menu-item {
+  list-style: none;
+}
+
+@media screen and (min-width: $on-palm) {
+  ul.menu-items, li.menu-item {
+    padding: 0.5em;
+    right: -20px;
+    text-align: center;
+    display: grid;
+    grid-auto-flow: column;
+    &:not(:first-child) {
+      margin-left: 20px;
+    }
+  }
+
+  .menu-item-dropdown {
+    position: relative;
+
+    &:hover > .dropdown-menu {
+      display: block;
+      opacity: 1;
+    }
+  }
+
+  .dropdown-trigger {
+    color: $text-color;
+    position: relative;
+
+    &:focus + .dropdown-menu {
+      display: block;
+      opacity: 1;
+    }
+  }
+
+  .dropdown-menu {
+    display: inline-block;
+    position: absolute;
+    top: 2.5rem;
+    right: -10px;
+    display: none;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    background-color: $background-color;
+    border: 1px solid $grey-color-light;
+    border-radius: 5px;
+    min-width: 15ch;
+  }
+
+  .dropdown-menu-item {
+    cursor: grab;
+    //padding: 1em;
+
+    &:hover {
+      background-color: darken($grey-color-light, 5%);
+    }
+  }
+}

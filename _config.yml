@@ -32,6 +32,27 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 
+minima:
+  social_links:
+    - { platform: linkedin, user_url: "https://www.linkedin.com/company/uk-through-life-engineering-services-tes-council/" }
+      
+header_pages:
+  - index.md
+  - who-are-we.md
+  - learn-more.md
+  - stay-informed.md
+
+collections:
+  redirects:
+    output: true
+
+defaults:
+  -
+    scope:
+      type: redirects
+    values:
+      layout: redirect
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
