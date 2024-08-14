@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Vision
-permalink: /vision
+title: Vision + Mission
+permalink: /vision+mission
 menus: 
   about:
     weight: 2
@@ -11,6 +11,8 @@ menus:
 [Working groups]({{ site.baseurl }}{{ page.url }}/working-groups)
 
 [2023 Round-up]({{ site.baseurl }}{{ page.url }}/2023-round-up)
+
+![TES Council Value and Mission]({{ site.baseurl }}/files/%5Btes-council%5D_vision_and_mission.png)
 
 **The TES Strategy imagines a 2025 environment where:**
 

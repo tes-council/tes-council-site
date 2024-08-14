@@ -4,7 +4,7 @@
 
 layout: page
 title: 2023 Round-up
-permalink: /vision/2023-round-up
+permalink: /vision+mission/2023-round-up
 
 ---
 
