@@ -2,7 +2,7 @@
 
 layout: page
 title: White papers
-permalink: white-papers
+permalink: /white-papers
 menus:
   learn-more:
     weight: 1
