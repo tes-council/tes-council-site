@@ -8,7 +8,7 @@ permalink: /learn-more
 
 # PAS 280
 
-[A guide to adding business value through a common Through-life Engineering Services framework.](../pas-280)
+[A guide to adding business value through a common Through-life Engineering Services framework.]({{ site.baseurl }}/pas-280)
 
 # Aerospace
 **Rolls-Royce 'Power-by-the-Hour'**
