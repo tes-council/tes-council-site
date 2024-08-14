@@ -9,6 +9,7 @@ permalink: /vision+mission/working-groups
 ---
 
 The council consolidated its focus on three main areas: 
+
 ## Skills/Training
 
 The Skills working group has been developing an overall education and training strategy for TES in tandem with Professor Ray Roy (City, University of London). Many parallels have been identified with topics such as Ethics in It and Engineering and Sustainability. There is a strategy to develop this using a Capability Network which may help fund the development and provision of access to some of the materials.
