@@ -8,11 +8,17 @@ menus:
 
 ---
 
+Find out more about our:
 [Working groups]({{ site.baseurl }}{{ page.url }}/working-groups)
 
+Review the:
 [2023 Round-up]({{ site.baseurl }}{{ page.url }}/2023-round-up)
 
 ![TES Council Value and Mission]({{ site.baseurl }}/files/%5Btes-council%5D_vision_and_mission.png)
+
+**Vision**: TES is the dominant global business model for the delivery of long-life assets which maintain a high-value through their operational life-cycle. The UK leads in this competitive market place, which supports its national economic prosperity
+
+**Mission**: Build the ecosystem to ensure that the UK is the natural home for the skills, technologies, supply chain, regulatory and commercial frameworks that will deliver world-class TES.
 
 **The TES Strategy imagines a 2025 environment where:**
 

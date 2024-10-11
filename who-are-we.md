@@ -14,28 +14,32 @@ permalink: /who-are-we
 The following organisations have contributed to the development of the TES Strategy and are actively engaged in the TES Council:
 
 ## Industry
-AgustaWestland<br>
-Altran<br>
+Advisian<br>
 Babcock International<br>
 BAE Systems<br>
 Bombardier Transportation<br>
 General Electric<br>
 Leonardo<br>
+LEVIDIAN<br>
+MoD<br>
+Network Rail<br>
+Nuclear Decomissioning Authority<br>
 Rolls-Royce <br>
 Siemens<br>
-Soil Machine Dynamics<br>
+Thales<br>
 
 ## Technology & Services
 Capgemini<br>
 CFMS Solutions<br>
 Hitachi Consulting<br>
 Oracle<br>
-Hennik Group
+Hennik Group<br>
 
 ## Academia
 Aston Business School<br>
 Cranfield University<br>
 Institute for Manufacturing (Cambridge)<br>
+Strathclyde<br>
 
 ## Associations
 BSI<br>
@@ -53,10 +57,7 @@ The Council will focus on leading change, but requires wider support from indust
 
 Government is a dominant consumer of through-life engineering services and has a critical role in shifting procurement practice from capital acquisition to outcome based service provision. Government also has a key role in encouraging, supporting and incubating through-life engineering technology and capability development.
 
-Despite being relatively new, the TES Council is well represented by leading industrial, academic and government practitioners and stakeholders. It is committed to the development of TES and it has already begun the process of standardising terminology and defining the key building blocks. Over the next 6-months the council intends to:
-
-* Develop a detailed plan on how to launch TES and engage a wider audience of UK manufacturers (June);
-* Define the budget requirements and request support funding from UK Government, most likely through the Industrial Strategy Challenge fund (September).
+Despite being relatively new, the TES Council is well represented by leading industrial, academic and government practitioners and stakeholders. It is committed to the development of TES and it has already begun the process of standardising terminology and defining the key building blocks. 
 
 Our immediate support requirements and request to UK government are:
 

@@ -13,3 +13,5 @@ The TES Council is an interest group formed in 2016 by leading industrial, acade
 
 To support or join the TES Council contact [secretariat@tes-council.org](mailto:secretariat@tes-council.org?subject=TES%20Council%20Enquiry)
 
+For more information, please see the following summary:
+[What is TES](files/[tes-council]_what_is_tes_v1.0.pdf)
